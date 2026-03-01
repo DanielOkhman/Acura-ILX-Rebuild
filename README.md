@@ -28,11 +28,6 @@
 
 
 
-<p align="center">
-  <i>Click image to watch demo video ↗</i>
-</p>
-
-<hr>
 
 ---
 
