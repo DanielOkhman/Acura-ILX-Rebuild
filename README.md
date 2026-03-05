@@ -48,6 +48,14 @@ The project served as an opportunity to apply engineering-style problem solving 
 
 ---
 
+### Frame Repair
+
+<p align="center">
+  <img src="https://github.com/DanielOkhman/Acura-ILX-Rebuild/blob/c125fe3b7f208900f36dd3c4fd3beae3f96952ac/PHOTO-2026-02-28-15-29-45.jpg" width="50%">
+</p>
+
+---
+
 ### Steps Taken
 
 1. **Initial Inspection**
@@ -95,21 +103,18 @@ The project served as an opportunity to apply engineering-style problem solving 
 
 <p align="center">
   <img src="https://github.com/DanielOkhman/Acura-ILX-Rebuild/blob/c125fe3b7f208900f36dd3c4fd3beae3f96952ac/IMG_6192.jpg" width="33%">
-  <img src="https://github.com/DanielOkhman/Acura-ILX-Rebuild/blob/c125fe3b7f208900f36dd3c4fd3beae3f96952ac/IMG_6193.jpg" width="33%">
-  <img src="https://github.com/DanielOkhman/Acura-ILX-Rebuild/blob/c125fe3b7f208900f36dd3c4fd3beae3f96952ac/IMG_6259.jpg" width="33%">
+  <img src="https://github.com/DanielOkhman/Acura-ILX-Rebuild/blob/c125fe3b7f208900f36dd3c4fd3beae3f96952ac/IMG_6193.jpg" width="32%">
+  <img src="https://github.com/DanielOkhman/Acura-ILX-Rebuild/blob/c125fe3b7f208900f36dd3c4fd3beae3f96952ac/IMG_6259.jpg" width="32%">
 </p>
 
-### Frame Repair
+---
 
-<p align="center">
-  <img src="https://github.com/DanielOkhman/Acura-ILX-Rebuild/blob/c125fe3b7f208900f36dd3c4fd3beae3f96952ac/PHOTO-2026-02-28-15-29-45.jpg" width="50%">
-</p>
 
 ### Completed Vehicle
 
 <p align="center">
-  <img src="IMAGE_LINK_4" width="45%">
-  <img src="IMAGE_LINK_5" width="45%">
+  <img src="https://github.com/DanielOkhman/Acura-ILX-Rebuild/blob/8feb382c9c023fd504bbf15815fb021387dbf71e/AcuraTop.jpeg" width="45%">
+  <img src="https://github.com/DanielOkhman/Acura-ILX-Rebuild/blob/8feb382c9c023fd504bbf15815fb021387dbf71e/AcuraSide.jpeg" width="45%">
 </p>
 
 ---
